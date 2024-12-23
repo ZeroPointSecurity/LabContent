@@ -12,10 +12,6 @@
 
 </style>
 
-<center>
-!IMAGE[logo-horizontal.png](https://raw.githubusercontent.com/ZeroPointSecurity/LabContent/main/logo-horizontal.png){300}
+<center>@lab.Title</center>
 
-@lab.Title
-
-</center>
 <br>
