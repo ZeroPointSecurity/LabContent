@@ -8,10 +8,10 @@
   align-items: Center;
   display: flex;
   justify-content: center;
-  }
-
+}
 </style>
 
-<center>@lab.Title</center>
-
-<br>
+<center>
+!IMAGE[logo-horizontal.png](https://raw.githubusercontent.com/ZeroPointSecurity/LabContent/main/logo-horizontal.png){300}
+@lab.Title
+</center>
